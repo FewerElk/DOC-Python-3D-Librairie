@@ -1,2 +1,5 @@
 # DOC-Python-3D-Librairie
-Here the documentation of my 3D librairie
+
+## Init 3D GUI
+
+1 : create an instance of Screen()
